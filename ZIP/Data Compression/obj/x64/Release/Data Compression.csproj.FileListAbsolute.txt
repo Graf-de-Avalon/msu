@@ -1,0 +1,4 @@
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\x64\Release\Data_Compression.MainForm.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\x64\Release\Data_Compression.Properties.Resources.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\x64\Release\Data_Compression.StatisticsForm.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\x64\Release\Data Compression.csproj.GenerateResource.cache

@@ -1,0 +1,42 @@
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\bin\Debug\Data Compression.exe.config
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\bin\Debug\Data Compression.exe.manifest
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\bin\Debug\Data Compression.application
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\bin\Debug\Data Compression.exe
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\bin\Debug\Data Compression.pdb
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data_Compression.MainForm.resources
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data_Compression.Properties.Resources.resources
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data_Compression.StatisticsForm.resources
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data Compression.csproj.GenerateResource.cache
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data Compression.exe.manifest
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data Compression.application
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data Compression.exe
+C:\Users\truso\Desktop\Data-Compression-0b0d4fbdc361c4d25782c3b33eb701cd58f45429\Data Compression\obj\Debug\Data Compression.pdb
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\bin\Debug\Data Compression.exe.config
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\bin\Debug\Data Compression.exe.manifest
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\bin\Debug\Data Compression.application
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\bin\Debug\Data Compression.exe
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\bin\Debug\Data Compression.pdb
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.csprojAssemblyReference.cache
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data_Compression.MainForm.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data_Compression.Properties.Resources.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data_Compression.StatisticsForm.resources
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.csproj.GenerateResource.cache
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.exe.manifest
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.application
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.exe
+C:\Users\truso\Desktop\Data-Compressioneb!!!!!\Data Compression\obj\Debug\Data Compression.pdb
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\bin\Debug\Data Compression.exe.config
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\bin\Debug\Data Compression.exe.manifest
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\bin\Debug\Data Compression.application
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\bin\Debug\Data Compression.exe
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\bin\Debug\Data Compression.pdb
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.csproj.AssemblyReference.cache
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data_Compression.MainForm.resources
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data_Compression.Properties.Resources.resources
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data_Compression.StatisticsForm.resources
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.csproj.GenerateResource.cache
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.csproj.CoreCompileInputs.cache
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.exe.manifest
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.application
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.exe
+E:\ОТЧЁТЫ\С++\6 done\1.Программа\ZIP\Data Compression\obj\Debug\Data Compression.pdb
